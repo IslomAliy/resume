@@ -21,6 +21,7 @@
   2017 - 2020
 
  **PROJECTS**
+
   [**Texnostroy.org**](https://texnostroy.org)
   
   This is the only real project which I can put on my portfolio.
@@ -40,3 +41,6 @@
   **ABOUT**
 
   I am an open-minded and a people person who  gets on well with almost everyone.
+
+ **Social**
+  [Telegram](https://t.me/islomaliy74) | [Facebook](https://facebook.com/theislomaliy) | [Instagram](https://instagram.com/islomaliy74)
