@@ -31,7 +31,7 @@
   - JavaScript, ReactJS, Hooks,
   - Styled components etc.
   - Trello, Git, Github, Linux.
-  - Web design, colors etc
+  - Web design, color palletes etc
 
  **LANGUAGES**
   
