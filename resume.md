@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ## Islom Aliy's resume
  **20 years old Front-End developer**
+=======
+## Islom Aliy
+ 20 years old Front-End developer from Tashkent
+>>>>>>> parent of 1ab35d5 (fix some issues)
 
 **EXPERIENCE**
 
