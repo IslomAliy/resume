@@ -1,11 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 ## Islom Aliy's resume
  **20 years old Front-End developer**
 =======
-=======
->>>>>>> parent of 1ab35d5 (fix some issues)
 =======
 >>>>>>> parent of 1ab35d5 (fix some issues)
 ## Islom Aliy
