@@ -1,5 +1,5 @@
 ## Islom Aliy's resume
- 20 years old Front-End developer from Tashkent
+ **20 years old Front-End developer**
 
 **EXPERIENCE**
 
